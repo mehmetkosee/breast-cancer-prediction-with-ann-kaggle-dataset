@@ -24,13 +24,11 @@ Below are the visualizations representing the model's performance during trainin
 ### 1. Confusion Matrix
 The distribution of true positive and false negative predictions. The model correctly identified **all 72 benign cases** and missed only **1 out of 42 malignant cases** in the test set.
 
-![Confusion Matrix]
 <img width="530" height="432" alt="__results___18_1" src="https://github.com/user-attachments/assets/9c98b1f7-cb00-439d-af56-9c71016b5ac4" />
 
 ### 2. ROC Curve (Receiver Operating Characteristic)
 The ROC curve illustrating the diagnostic ability of the binary classifier system.
 
-![ROC Curve]
 <img width="567" height="455" alt="__results___18_3" src="https://github.com/user-attachments/assets/5bda7220-c535-4be2-a367-467c14ff89f0" />
 
 ---
@@ -87,4 +85,4 @@ To run this project locally:
 
 **[Your Name]**
 * GitHub: [@mehmetkosee](https://github.com/mehmetkosee)
-* LinkedIn: [](https://www.linkedin.com/in/mehmeet-k0se/)
+* LinkedIn: [@mehmeet-k0se](https://www.linkedin.com/in/mehmeet-k0se/)
