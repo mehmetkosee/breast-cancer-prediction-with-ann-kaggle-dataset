@@ -84,6 +84,6 @@ To run this project locally:
 
 ###  Author
 
-**[Your Name]**
+**Mehmet Köse**
 * GitHub: [@mehmetkosee](https://github.com/mehmetkosee)
 * LinkedIn: [@mehmeet-k0se](https://www.linkedin.com/in/mehmeet-k0se/)
