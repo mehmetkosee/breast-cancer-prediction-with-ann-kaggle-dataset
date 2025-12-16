@@ -12,6 +12,7 @@ This project is a high-accuracy **Artificial Neural Network (ANN)** model design
 Early diagnosis is critical in breast cancer treatment. This study utilizes Deep Learning techniques to analyze 30 different cellular features to predict cancer diagnosis with high precision.
 
 * **Dataset:** 569 patient records with 30 numeric features.
+* **Link:** [data_link](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 * **Model:** Deep Learning based ANN with Dropout regularization.
 * **Performance:** Achieved **99.12% accuracy** on the test set.
 
