@@ -68,7 +68,7 @@ To run this project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/breast-cancer-ann.git](https://github.com/mehmetkosee/breast-cancer-ann.git)
+    git clone [https://github.com/mehmetkosee/breast-cancer-ann.git](https://github.com/mehmetkosee/breast-cancer-ann.git)
     cd breast-cancer-ann
     ```
 
